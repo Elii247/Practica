@@ -7,5 +7,6 @@ public class Main {
         //Modificamos el valor de la Variable
         miVariableEntera = 5;
         System.out.println(miVariableEntera);
+
     }
 }
